@@ -39,7 +39,6 @@ professional watermarks to your PDF documents."
   # spec.add_dependency "mini_magick", "~> 4.11"
   spec.add_runtime_dependency "mini_magick"
 
-
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
 end
